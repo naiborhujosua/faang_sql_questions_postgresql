@@ -1,4 +1,4 @@
-# faang_sql_questions_postgresql
+# Most appearance Database Questions in FAANG Companies
 This repository is used to practices your SQL using postgreSQL by questions of FAANG Companies. I also included some resources to reinforce your skills in postgresql through a few sites linked in the [resources](https://github.com/naiborhujosua/faang_sql_questions_postgresql/tree/main/resources)
 
 
