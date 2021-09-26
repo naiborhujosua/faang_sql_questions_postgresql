@@ -2,7 +2,7 @@
 This repository is used to practices our SQL using postgreSQL by questions of FAANG Companies. 
 
 ## The Motivations 
-I try implementing my Postgresql skills to improve and optimize query better.
+I try implementing my Postgresql skills to improve and optimize query better and i believe the true education is when you can implement what you learn or **simply learn by doing**.
 You can access the questions in leetcode [database section](https://leetcode.com/problemset/database/)
 
 I also included some resources to brush up on our technique in postgresql through a few sites
